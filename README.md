@@ -10,8 +10,8 @@
 > termux-setup-storage
 (after that tap on permission)
 > apt install git -y
-> git clone https://github.com/vinizeus/vinizeus.git
-> cd vinizeus
+> git clone https://github.com/darkmodz427/Darkmodz.git
+> cd darkmodz
 > bash install.sh
 ```
 
@@ -24,6 +24,7 @@
 
 ### ENTREM EM CONTATO COMIGO!
 
-- Whatsapp: wam.me/+556993899391
-- Instagram: @zultra_edits
+- Whatsapp: wa.me/5521980815830
+
+creditos tlgd:
 - YouTube: https://youtube.com/channel/UCpS0ngad4LjtDoux_JvOK6Q
