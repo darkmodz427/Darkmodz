@@ -11,7 +11,7 @@
 (after that tap on permission)
 > apt install git -y
 > git clone https://github.com/darkmodz427/Darkmodz.git
-> cd vinizeus
+> cd Darkmodz
 > bash install.sh
 ```
 
